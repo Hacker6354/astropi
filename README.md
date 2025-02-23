@@ -14,8 +14,8 @@ AstroPi project for the AstroPi cpmpetotion in Luxembourg
 
 ## Demo
 
-![Results](https://github.com/username/Hacker6354/assets/Screenshot1.jpeg)
-![Images](https://github.com/username/Hacker6354/assets/Screenshot2.jpeg)
+![Results](https://github.com/Hacker6354/astropi/blob/d81d1037d5c60429943ef850f5fa5b187352c5c0/assets/Screenshot1.jpeg)
+![Images](https://github.com/Hacker6354/astropi/blob/d81d1037d5c60429943ef850f5fa5b187352c5c0/assets/Screenshot2.jpeg)
 
 
 ## License
